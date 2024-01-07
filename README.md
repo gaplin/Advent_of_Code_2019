@@ -23,6 +23,6 @@
 22. ✅✅
 23. ✅✅
 24. ✅✅
-25. 
+25. ✅✅
 
 [AoC events](https://adventofcode.com/2019/events)
